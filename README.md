@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danvahsh
-- 👀 I’m interested in: Python/C++/HTML/CSS/JavaScript/PHP
-- 🌱 I’m currently learning: Python/C++
+- 👀 I’m interested in: Python/C++/C/HTML/CSS/JavaScript/PHP
+- 🌱 I’m currently learning: Python/C++/C
 - 💞️ I’m looking to collaborate on: Nothing Yet
 - 📫 How to reach me: Djcvalea\#4108
 
