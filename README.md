@@ -2,4 +2,4 @@
 - 👉 I’m interested in: Python/C++/C/HTML/CSS/JavaScript/PHP
 - 👨‍🎓 I’m currently learning: Python/C/JavaScript
 - 👨‍💻 I’m looking to collaborate on: An upcoming project called Wallchani.
-- 💻 How to reach me: (Discord) ! Dan\#9425
+- 💻 How to reach me: (Discord) `! Dan#9425`
